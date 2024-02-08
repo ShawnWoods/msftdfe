@@ -188,7 +188,7 @@ api-gcc.securitycenter.microsoft.us
 *.notify.windows.com
 *.mzstatic.com
 *.microsoftonline-p.com
-�*.manage.microsoft.com
+*.manage.microsoft.com
 *.itunes.apple.com
 *.infra.lync.com
 *.go-mpulse.net
